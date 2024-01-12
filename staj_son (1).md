@@ -1,4 +1,4 @@
-# Teknik Değerlendirme Süreci: Sanal Makine Kurulumu
+# OpenWebServis-Projesi
 
 ## 1. Sanal Makine Oluşturma
 ### Dağıtım Seçimi
